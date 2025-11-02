@@ -71,20 +71,6 @@ Subqueries & percentage calculations
 10. Overtime distribution per department.
 
 
-
-
----
-
-📂 Files in This Repository
-
-hr_analytics.sql → Full SQL script containing all queries
-
-dataset.csv → Sample HR dataset (replace with actual data if sharing)
-
-README.md → Project documentation (this file)
-
-
-
 ---
 
 🚀 How to Use
@@ -104,3 +90,12 @@ README.md → Project documentation (this file)
 💡 Why This Project Matters
 
 This project demonstrates the ability to transform raw HR data into business-ready insights using only SQL — a crucial skill for data analysts, business intelligence professionals, and HR decision-makers.
+
+
+📧 Email: Chainzmubarak2003@gmail.com
+
+LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+
+upwork: https://www.upwork.com/freelancers/~01c100bccc1a9bf5c9
+
+twitter: https://x.com/Chainzzee
